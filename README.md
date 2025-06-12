@@ -11,5 +11,5 @@ i am not liable for any damages that may occur to your system in the use of this
 ## - Instructions
 
 1. Get files
-2. Get roblox plugin - Either download rbxm from github if you wish to screen my code or install from link @ tbd
+2. Get roblox plugin - Either download rbxm from github if you wish to screen my code or install from link @ [here](https://create.roblox.com/store/asset/88252760899261/F3x-Transfer)
 3. Run roblox plugin
