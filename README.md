@@ -12,6 +12,6 @@ i am not liable for any damages that may occur to your system in the use of this
 
 1. Get files
 2. Get roblox plugin - Either download rbxm from github if you wish to screen my code or install from link @ [here](https://create.roblox.com/store/asset/88252760899261/F3x-Transfer)
-3. Run roblox plugin
-3.1. Select your model
-3.2. Run plugin with big run plugin button
+3. Run roblox plugin  
+3.1. Select your model  
+3.2. Run plugin with big run plugin button  
