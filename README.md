@@ -17,6 +17,6 @@ i am not liable for any damages that may occur to your system in the use of this
 3.2. Run plugin with big run plugin button
 
 4. for each output string created in roblox workspace.output, locate the .txt file with the same name in the download folder you placed the files from here and place in the data from the output.
-5. Run stepGen.py
+5. Run stepGen.py  
 5.1. Answer setup questions and it will run and generate output.txt
 
